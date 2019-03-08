@@ -1,7 +1,7 @@
 // convert celcius to fahrenheit
-// algorithm: fahrenheit = celcius * 9/5 + 32
-function convertToF(celcius) {
-  let fahrenheit = celcius * 9 / 5 + 32;
+// algorithm: fahrenheit = celsius * 9/5 + 32
+function convertToF(celsius) {
+  let fahrenheit = celsius * 9 / 5 + 32;
   return fahrenheit;
 }
 
