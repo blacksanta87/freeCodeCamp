@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "pug": "^2.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
   }
 }
