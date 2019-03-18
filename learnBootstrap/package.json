@@ -13,9 +13,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "webpack": "^4.29.6"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
   }
 }
